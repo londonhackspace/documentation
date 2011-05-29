@@ -1,0 +1,197 @@
+\package{cleveref}
+
+# Articles of Association of London Hackspace Ltd.
+
+1) The company's name is London Hackspace Ltd. (and in this document it is called the "charity").
+
+2) In the articles:
+    * "address" means a postal address or, for the purposes of electronic communication, a fax number, an e-mail or postal address or a telephone number for receiving text messages in each case registered with the charity;
+    * "the articles" means the charity’s articles of association;
+    * "the charity" means the company intended to be regulated by the articles;
+    * "clear days" in relation to the period of a notice means a period excluding:
+        - the day when the notice is given or deemed to be given; and
+        - the day for which it is given or on which it is to take effect;
+    * "the Commission" means the Charity Commission for England and Wales;
+    * "Companies Acts" means the Companies Acts (as defined in section 2 of the Companies Act 2006) insofar as they apply to the charity;
+    * "the directors" means the directors of the charity. The directors are charity trustees as defined by section 97 of the Charities Act 1993;
+    * "document" includes, unless otherwise specified, any document sent or supplied in electronic form;
+    * "electronic form" has the meaning given in section 1168 of theCompanies Act 2006;
+    * "the memorandum" means the charity’s memorandum of association;
+    * "officers" includes the directors and the secretary (if any);
+    * "the seal" means the common seal of the charity if it has one;
+    * "secretary" means any person appointed to perform the duties of the secretary of the charity;
+    * "the United Kingdom" means Great Britain and Northern Ireland; and
+    * words importing one gender shall include all genders, and the singular includes the plural and vice versa.
+
+    Unless the context otherwise requires words or expressions contained in the articles have the same meaning as in the Companies Acts but
+    excluding any statutory modification not in force when this constitution becomes binding on the charity.
+
+    Apart from the exception mentioned in the previous paragraph a reference to an Act of Parliament includes any statutory modification or
+    re-enactment of it for the time being in force.
+
+3) The liability of the members is limited to a sum not exceeding £1, being the amount that each member undertakes to contribute to the assets of the charity in the event of its being wound up while he, she or it is a member or within one year after he, she or it ceases to be a member, for:
+    1. payment of the charity’s debts and liabilities incurred before he, she or it ceases to be a member;
+    2. payment of the costs, charges and expenses of winding up; and
+    3. adjustment of the rights of the contributories among themselves.
+
+4) The charity’s objects ("Objects") are specifically restricted to the following:
+    TODO
+
+5) The charity has power to do anything which is calculated to further its Objects or is conducive or incidental to doing so. In particular, the
+    charity has power:
+    1.  to raise funds. In doing so, the charity must not undertake any taxable permanent trading activity and must comply with any relevant statutory regulations;
+    2. to buy, take on lease or in exchange, hire or otherwise acquire any property and to maintain and equip it for use;
+    3.  to sell, lease or otherwise dispose of all or any part of the property belonging to the charity. In exercising this power, the charity must comply as appropriate with sections 36 and 37 of the Charities Act 1993, as amended by the Charities Act 2006;
+    4.  to borrow money and to charge the whole or any part of the property belonging to the charity as security for repayment of the money borrowed or as security for a grant or the discharge of an obligation. The charity must comply as appropriate with sections 38 and 39 of the Charities Act 1993, as amended by the Charities Act 2006, if it wishes to mortgage land;
+    5.  to co-operate with other charities, voluntary bodies and statutory authorities and to exchange information and advice with them;
+    6.  to establish or support any charitable trusts, associations or institutions formed for any of the charitable purposes included in the Objects;
+    7.  to acquire, merge with or to enter into any partnership or joint venture arrangement with any other charity;
+    8.  to set aside income as a reserve against future expenditure but only in accordance with a written policy about reserves;
+    9.  to employ and remunerate such staff as are necessary for carrying out the work of the charity. The charity may employ or remunerate a director only to the extent it is permitted to do so by article 6 and provided it complies with the conditions in that article;
+    10.     to:
+        a.  deposit or invest funds;
+        b.  employ a professional fund-manager; and
+        c.  arrange for the investments or other property of the charity to be held in the name of a nominee;
+       in the same manner and subject to the same conditions as the trustees of a trust are permitted to do by the Trustee Act 2000;
+    11. to provide indemnity insurance for the directors in accordance with, and subject to the conditions in, section 73F of the Charities Act 1993;
+    12. to pay out of the funds of the charity the costs of forming and registering the charity both as a company and as a charity;
+
+6) \label{cls:income-property}
+    1. The income and property of the charity shall be applied solely towards the promotion of the Objects.
+    2.  \label{scls:director-reimburse}
+        a. A director is entitled to be reimbursed from the property of the charity or may pay out of such property
+            reasonable expenses properly incurred by him or her when acting on behalf of the charity.
+        b. A director may benefit from trustee indemnity insurance cover purchased at the charity’s expense in accordance
+            with, and subject to the conditions in, section 73F of the Charities Act 1993.
+        c.  A director may receive an indemnity from the charity in the circumstances specified in article 56.
+    3.  None of the income or property of the charity may be paid or transferred directly or indirectly by way of dividend bonus or
+        otherwise by way of profit to any member of the charity. This does not prevent a member who is not also a director receiving:
+        a.  a benefit from the charity in the capacity of a beneficiary of the charity;
+        b.  reasonable and proper remuneration for any goods or services supplied to the charity.
+    4. \label{scls:directors-remuneration} No director or connected person may:
+        a.  buy any goods or services from the charity on terms preferential to those applicable to members of the public;
+        b.  sell goods, services, or any interest in land to the charity;
+        c.  be employed by, or receive any remuneration from, the charity;
+        d.  receive any other financial benefit from the charity; unless:
+            i.  the payment is permitted by article \ref{scls:directors-scope}; or
+            ii. the directors obtain the prior written approval of the Commission and fully comply with any procedures it prescribes.
+        In this article a ‘financial benefit’ means a benefit, direct or indirect, which is either money or has a monetary value.
+    5. \label{scls:directors-scope}
+        i. A director or connected person may receive a benefit from the charity as a beneficiary provided it is available
+            generally to the beneficiaries of the charity.
+        ii. A director or connected person may enter into a contract for the supply of services, or of goods that
+            are supplied in connection with the provision of services, to the charity where that is permitted in
+            accordance with, and subject to the conditions in section 73A to 73C of the Charities Act 1993.
+        iii. Subject to article \ref{scls:supply-goods} a director or connected person may provide the charity with goods that are
+            not supplied in connection with services provided to the charity by the director or connected person. \label{art:directors-goods}
+        iv. A director or connected person may receive interest on money lent to the charity at a reasonablea
+            and proper rate which must be 2% (or more) per annum below the base rate of a clearing bank to be
+            selected by the directors.
+        v. A director or connected person may receive rent for premises let by the director or connected person to
+            the charity if the amount of the rent and the other terms of the lease are reasonable and proper and
+            provided that the director concerned shall withdraw from any meeting at which such a proposal or the
+            rent or other terms of the lease are under discussion.
+        vi. The directors may arrange for the purchase, out of the funds of the charity, of insurance designed
+            to indemnify the directors in accordance with the terms of, and subject to the conditions in, section
+            73F of the Charities Act 1993.
+    6. \label{scls:supply-goods}
+        The charity and its directors may only rely upon the authority provided by article \ref{art:directors-goods} if each of the following
+        conditions is satisfied:
+        a. The amount or maximum amount of the payment for the goods is set out in an agreement in writing between:
+            i.  the charity or its directors (as the case may be); and
+            ii. the director or connected person supplying the goods ("the supplier") under which the supplier is
+                to supply the goods in question to or on behalf of the charity.
+        b. The amount or maximum amount of the payment for the goods does not exceed what is reasonable in the 
+            circumstances for the supply of the goods in question.
+        c.  The other directors are satisfied that it is in the best interests of the charity to contract with the supplier rather
+            than with someone who is not a director or connected person. In reaching that decision the directors must
+            balance the advantage of contracting with a director or connected person against the disadvantages of doing so.
+        d.  The supplier is absent from the part of any meeting at which there is discussion of the proposal to enter into a
+            contract or arrangement with him or her or it with regard to the supply of goods to the charity.
+        e.  The supplier does not vote on any such matter and is not to be counted when calculating whether a quorum of
+            directors is present at the meeting.
+        f.  The reason for their decision is recorded by the directors in the minute book.
+        g.  A majority of the directors then in office are not in receipt of remuneration or payments authorised by article \ref{scls:directors-remuneration}.
+    7. In sub-clauses 2 to 6 of this article, "charity" shall include any company in which the charity:
+        * holds more than 50% of the shares; or
+        * controls more than 50% of the voting rights attached to the shares; or
+        * has the right to appoint one or more directors to the board of the company;
+    8. In sub-clauses 4 to 6 of this article 6, sub-clause (2) of article 45 and sub-clause (2) of article 46 "connected person" means:
+        a. \label{art:connected-child} a child, parent, grandchild, grandparent, brother or sister of the director;
+        b. \label{art:connected-spouse} the spouse or civil partner of the director or of any person falling within paragraph \ref{art:connected-child} above;
+        c. \label{art:connected-business} a person carrying on business in partnership with the director or with any person falling within
+                paragraph \ref{art:connected-child} or \ref{art:connected-spouse} above;
+        d. an institution which is controlled –
+            i. by the director or any connected person falling within paragraph \ref{art:connected-child},
+                \ref{art:connected-spouse}, or \ref{art:connected-business} above; or
+            ii. by two or more persons falling within sub-paragraph (I), when taken together
+        v. a body corporate in which –
+            I. the director or any connected person falling within paragraphs (i) to (iii) has a substantial interest; or
+            II. two or more persons falling within sub-paragraph (I) who, when taken together, have a substantial interest.
+    9. For the purposes of interpreting the terms used in sub-clauses 7 and 8, paragraphs 2 to 4 of Schedule 5 to the Charities Act 1993 apply.
+
+7) \label{cls:subscribers}
+    1.  The subscribers to the memorandum are the first members of the charity.
+    2.  Membership is open to other individuals or organisations who:
+        a. apply to the charity in the form required by the directors; and
+        b. are approved by the directors.
+    3. #
+        a.  The directors may only refuse an application for membership if, acting reasonably and properly, they
+            consider it to be in the best interests of the charity to refuse the application.
+        b.  The directors must inform the applicant in writing of the reasons for the refusal within twenty-one days of the decision.
+        c.  The directors must consider any written representations the applicant may make about the decision. The directors’
+             decision following any written representations must be notified to the applicant in writing but shall be final.
+    4. Membership is not transferable.
+    5. The directors must keep a register of names and addresses of the members.
+
+8) \label{cls:members}
+    1.  The directors may establish classes of membership with different rights and obligations and shall record the rights and
+        obligations in the register of members.
+    2.  The directors may not directly or indirectly alter the rights or obligations attached to a class of membership.
+    3.  The rights attached to a class of membership may only be varied if:
+        a. three-quarters of the members of that class consent in writing to the variation; or
+        b. a special resolution is passed at a separate general meeting of the members of that class agreeing to the variation.
+    4.  The provisions in the articles about general meetings shall apply to any meeting relating to the variation of the rights of any class
+        of members.
+9)  Membership is terminated if:
+    1.  the member dies or, if it is an organisation, ceases to exist;
+    2.  the member resigns by written notice to the charity unless, after the resignation, there would be less than two members;
+    3.  any sum due from the member to the charity is not paid in full within six months of it falling due;
+    4.  the member is removed from membership by a resolution of the directors that it is in the best interests of the charity that his
+        or her or its membership is terminated. A resolution to remove a member from membership may only be passed if:
+        a.  the member has been given at least twenty-one days’ notice in writing of the meeting of the directors at which
+            the resolution will be proposed and the reasons why it is to be proposed;
+        b. the member or, at the option of the member, the member’s representative (who need not be a member of
+             the charity) has been allowed to make representations to the meeting.
+
+10)   #
+    1.  The charity must hold its first annual general meeting within eighteen months after the date of its incorporation.
+    2.  An annual general meeting must be held in each subsequent year and not more than fifteen months may elapse between
+        successive annual general meetings.
+
+11) The directors may call a general meeting at any time.
+
+12) #
+    1. The minimum periods of notice required to hold a general meeting of the charity are:
+        a.  twenty-one clear days for an annual general meeting or a general meeting called for the passing of a special resolution;
+        b.  fourteen clear days for all other general meetings.
+    2.  A general meeting may be called by shorter notice if it is so agreed by a majority in number of members having a right to
+            attend and vote at the meeting, being a majority who together hold not less than 90 percent of the total voting rights.
+    3.  The notice must specify the date time and place of the meeting and the general nature of the business to be transacted. If the
+            meeting is to be an annual general meeting, the notice must say so. The notice must also contain a statement setting out the
+            right of members to appoint a proxy under section 324 of the Companies Act 2006 and article 19.
+    4.  The notice must be given to all the members and to the directors and auditors.
+
+13)   The proceedings at a meeting shall not be invalidated because a person who was entitled to receive notice of the meeting did not receive it
+        because of an accidental omission by the charity.
+
+14) #
+    1. No business shall be transacted at any general meeting unless a quorum is present.
+    2. A quorum is:
+        a.  [ ] members present in person or by proxy and entitled to vote upon the business to be conducted at the meeting; or
+        b.  one tenth of the total membership at the time
+    3.  The authorised representative of a member organisation shall be counted in the quorum.
+
+
+
+
