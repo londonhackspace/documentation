@@ -1,4 +1,4 @@
-# London Hackspace Reserves Policy
+# Reserves Policy
 
 Article 4(f) of the London Hackspace Articles of Association gives the
 association the power "to set aside income as a reserve against future
