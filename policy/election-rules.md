@@ -120,9 +120,11 @@ If the election has not reached quorum, it will be the Board's decision
 to decide what action to take.
 
 If, during the election, a candidate:
+
 1. withdraws by notice to the Returning Officer;
 2. becomes banned from London Hackspace during the election, or;
 3. ceases to be a member,
+
 that candidate should be treated as withdrawn for the purposes of the
 election. In effect this causes the results to be calculated as if
 that candidate never participated.
