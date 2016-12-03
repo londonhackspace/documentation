@@ -1,7 +1,7 @@
 # London Hackspace: Rules on Conduct of Elections
-*Important Note:* This document is a provisional work in progress
-during the 2016 election, with the intent of being final for the
-2017 election.
+*Important Note:* This document is subject to revision during the
+2016 election period, with the intent of being final for the 2017 election.
+It has not yet been formally approved by the Board.
 
 ## Introduction
 Trustee elections are carried out yearly in accordance with article 25
@@ -119,15 +119,15 @@ directors of the association.
 If the election has not reached quorum, it will be the Board's decision
 to decide what action to take.
 
-If, during the election, a candidate:
+A candidate should be treated as withdrawn for the purposes of the
+election if they:
 
-1. withdraws by notice to the Returning Officer;
-2. becomes banned from London Hackspace during the election, or;
-3. ceases to be a member,
+1. withdraw by notice to the Returning Officer;
+2. become banned from London Hackspace, or;
+3. cease to be a member.
 
-that candidate should be treated as withdrawn for the purposes of the
-election. In effect this causes the results to be calculated as if
-that candidate never participated.
+In effect this causes the results to be calculated as if that candidate
+never participated.
 
 ## Appendix: Model Texts
 This appendix contains model texts for conducting the election, and does
