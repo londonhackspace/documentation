@@ -1,6 +1,6 @@
 # London Hackspace: Rules on Conduct of Elections
 *Important Note:* This document is subject to revision during the
-2016 election period, with the intent of being final for the 2017 election.
+2017 election period, with the intent of being final for the 2018 election.
 It has not yet been formally approved by the Board.
 
 ## Introduction
@@ -68,6 +68,15 @@ periodically added to the public list of candidates so the membership is
 aware of who is currently nominated.
 
 Lack of a bio or photo does not invalidate a candidate's nomination.
+
+The Returning Officer should make a best effort to let prospective
+candidates know if their nomination is incomplete - for example if a
+proposer or seconder email is missing.
+
+However, in the event of a valid nomination not being successfully
+submitted by the end of the nomination period, the rules on nominations
+should be strictly applied unless there is clear evidence of technical
+issues on London Hackspace's side.
 
 ### 4. Start of Election
 * The Returning Officer should now commence the election using
